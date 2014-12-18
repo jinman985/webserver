@@ -1,0 +1,5 @@
+# Ignore compiled .js files
+*.js
+
+# Don't track module files
+node_modules
